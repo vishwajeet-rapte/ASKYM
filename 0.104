@@ -1,0 +1,9 @@
+Collecting multi-rake
+  Using cached multi_rake-0.0.1-py3-none-any.whl (29 kB)
+Requirement already satisfied: regex>=2018.6.6 in d:\python\lib\site-packages\regex-2021.4.4-py3.9-win-amd64.egg (from multi-rake) (2021.4.4)
+Collecting numpy>=1.14.4
+  Using cached numpy-1.20.3-cp39-cp39-win_amd64.whl (13.7 MB)
+Collecting pyrsistent>=0.14.2
+  Using cached pyrsistent-0.17.3.tar.gz (106 kB)
+Collecting cld2-cffi>=0.1.4
+  Using cached cld2-cffi-0.1.4.tar.gz (17.6 MB)
